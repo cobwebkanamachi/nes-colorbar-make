@@ -27,3 +27,4 @@ If you prefer binary compare, do check fc /b orig.nes build.nes.
 I test with this rom, I found this is a hello world with mapper 0(digits, RGB string).
 Enjoy!
 </PRE>
+<img src=https://github.com/cobwebkanamachi/nes-colorbar-make/blob/main/colorbar.jpg><BR>
