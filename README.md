@@ -28,3 +28,6 @@ I test with this rom, I found this is a hello world with mapper 0(digits, RGB st
 Enjoy!
 </PRE>
 <img src=https://github.com/cobwebkanamachi/nes-colorbar-make/blob/main/colorbar.jpg><BR>
+notice:<BR>
+I use this flash cart "レトロダンパー ファミコン用「FCマッパー0 Ver.1 フラッシュカートリッジ」 ゲームバンクウェブドットコム Gamebank-web.com".<BR>
+And I use this dumper for read and write cart.レトロダンパー 「FC ダンパー V4.1」 ファミコン Famicom ファミリーコンピュータ(Family Computer) ●USBケーブル(Type-C)50cm付属● RetroDumper<BR>
